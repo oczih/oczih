@@ -37,8 +37,7 @@
 <!-- 
   </p> -->
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oczih" alt="GitHub Stats"> <br><br>
+  <b><em>GitHub Stats:</em></b>
 </p></div>
 <p><img src="https://github-readme-stats.vercel.app/api?username=oczih&amp;show_icons=true&amp;include_all_commits=true" alt="My github status">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oczih&amp;layout=compact" alt="Top Langs"></p>
