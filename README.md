@@ -3,7 +3,7 @@
 <!--
 **
 -->
-<img align="right" width="300px" alt="Unicorn" src="">
+<!-- <img align="right" width="300px" alt="Unicorn" src=""> -->
 <h2 id="about-me">&nbsp;<em><strong>About me</strong></em></h2>
 <p>I am an undergraduate Computer science and Engineering student at Aalto University. TypeScript, Javascript, Python, and Scala are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.</p>
 <ul>
