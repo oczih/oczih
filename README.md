@@ -18,7 +18,6 @@
 </li>
 <li>👯 I’m looking forward to collaborate on open source projects.</li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br></li>
-<li>Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.</li>
 <li>📫 Reach out to me at: <a href="arvo.matilainen@gmail.com"></a><a href="mailto:arvo.matilainen@gmail.com">arvo.matilainen@gmail.com</a></li>
 </ul>
 <p><strong>Check out my GitHub repository:</strong></p>
