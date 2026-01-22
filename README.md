@@ -26,7 +26,7 @@
     <a href="https://github.com/oczih/10ksteps.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=oczih&amp;repo=10ksteps" alt="GitHub Stats">
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+    <a href="https://github.com/oczih/myfitnessapp">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=oczih&amp;repo=myfitnessapp" alt="GitHub Stats">
     </a>
   </p>
